@@ -1,0 +1,13 @@
+C:\Application\Login Form\bin\Debug\Login Form.exe.config
+C:\Application\Login Form\bin\Debug\Login Form.exe
+C:\Application\Login Form\bin\Debug\Login Form.pdb
+C:\Application\Login Form\bin\Debug\Login Form.xml
+C:\Application\Login Form\obj\Debug\Login Form.vbproj.AssemblyReference.cache
+C:\Application\Login Form\obj\Debug\Login_Form.Form1.resources
+C:\Application\Login Form\obj\Debug\Login_Form.Resources.resources
+C:\Application\Login Form\obj\Debug\Login Form.vbproj.GenerateResource.cache
+C:\Application\Login Form\obj\Debug\Login Form.vbproj.CoreCompileInputs.cache
+C:\Application\Login Form\obj\Debug\Login Form.exe
+C:\Application\Login Form\obj\Debug\Login Form.xml
+C:\Application\Login Form\obj\Debug\Login Form.pdb
+C:\Application\Login Form\obj\Debug\Login_Form.Form2.resources
